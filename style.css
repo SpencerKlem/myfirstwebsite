@@ -1,0 +1,57 @@
+
+.ssud1 {
+    display: inline-block;
+}
+.ssud2 {
+    display: inline-block;
+}
+.list1 { 
+    text-align: center;
+    width:500px; 
+    
+}
+.list2 { 
+    text-align: center;
+    width:500px;
+    
+}
+ol { 
+    display: inline-block; text-align: left; 
+}
+a {
+    padding: 16px 14px;
+    text-decoration: none;
+    color: #910185;
+}
+a:hover {
+  background-color: #9084f0;
+  color: white;
+}
+    a.active {
+  background-color: #9084f0;
+  color: white;
+}
+body {
+    background-image: url("backgroundthing.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Do Hyeon', sans-serif;
+}
+img {
+    box-align:center;
+    margin: 0% 25% 0% 25%;
+}
+.asdf {
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: lightslategray;
+    color: black;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; 
+    bottom: 0px; 
+    width: 100%; 
+    padding: 25px;
+}
